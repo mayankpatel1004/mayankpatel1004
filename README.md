@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**mayankpatel1004/mayankpatel1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Here is what i am working 👋
 
 - 🔭 I’m currently working on PHP, Laravel, Symfony, React Native
 - 🌱 Interested in Web Portal Devemopment, Mobile Application and Outdoor Sports
