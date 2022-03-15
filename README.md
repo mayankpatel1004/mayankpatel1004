@@ -1,6 +1,6 @@
 ### Here is what i am working 👋
 
-- 🔭 I’m currently working on PHP, Laravel, Symfony, React Native
+- 🔭 I’m currently working on PHP, Nodejs, Express, Laravel, Symfony, React Native, React JS, Handlebar, EBS.
 - 🌱 Interested in Web Portal Devemopment, Mobile Application and Outdoor Sports
 - 👯 I’m looking to collaborate on projects that will improve my knowledge and add value to others
 - 🤔 I’m looking for help with mobile application development
